@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mflR57lcNBWV+QiSjzHagMUCuT1TdYjOaDlEb1cXp6V0/S+p9HaHwb+aRrWcqTMNLr5VRmuk87dPQm7nObd0dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crist_7v1hd2s\\OneDrive\\Documentos\\proyects-sales\\backend-app-rhh-net-core\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist_7v1hd2s\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
